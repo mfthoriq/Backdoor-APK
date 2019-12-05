@@ -8,7 +8,7 @@ Cara Membuat Backdoor Untuk Android Dengan Metaspolit Dan Ngrok
 **3. Buat Akun Ngrok**
 
 **4. Masukkan Token Ngrok**
-<br> '$./ngrok authtoken 'Masukkan Token';'
+'<br> $./ngrok authtoken 'Masukkan Token';'
 
 **5. Buat Port Ngrok**
 <br> $./ngrok http 4455
